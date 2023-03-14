@@ -1,0 +1,1 @@
+## ALX Javascript - Objects, Scopes and Closures
